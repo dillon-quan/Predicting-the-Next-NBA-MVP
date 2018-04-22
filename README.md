@@ -14,4 +14,4 @@ The approach to this problem will be to randomly sample 1800 different statlines
 
 
 ### Extension
-To get a more objective view on the players, unsupervised learning can be done to help seperate players in hope to finding other trends to discern MVP players.
+To get a more objective view on the players, unsupervised learning can be done to help seperate players in hope to finding other trends to discern MVP players. See Capstone Project 1 Final Report for more details.
