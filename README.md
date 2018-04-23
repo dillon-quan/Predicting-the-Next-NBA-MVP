@@ -1,4 +1,4 @@
-# Capstone-Project-1
+# Predicting the Next NBA MVP
 ### Summary
 My first capstone project for springboard deals with handling NBA players' statline and using them to help predict the season MVPs. Since MVPs are chosen through a process in which a handful of players are rank by sports analysts and broadcaster, the idea will be to model the way these individuals cast their votes towards choosing their candidates. In doing so, perhaps determining the next NBA season's MVP will ultimately come down to analyzing specific stats of a player during that season.
 
