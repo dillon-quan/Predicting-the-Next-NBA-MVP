@@ -15,5 +15,7 @@ The approach to this problem will be to randomly sample 1800 different statlines
 ### Result
 The model was able to sucessfully predict the 2018 NBA MVP to be James Harden from the Houston Rocket using Logistic Regression. The feature that had the highest weight was Team's Winning percentage, meaning that most of the focus on how well the team perform throughout the entire season.
 
+![james-harden-reacts-black-uni](https://user-images.githubusercontent.com/35437033/42668823-952c5878-8607-11e8-8990-4f92097404e4.jpg)
+
 ### Extension
 To get a more objective view on the players, unsupervised learning can be done to help seperate players in hope to finding other trends to discern MVP players. See Capstone Project 1 Final Report for more details.
